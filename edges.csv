@@ -1,0 +1,43 @@
+node_a,node_b,node_name,intersection,N,S,E,W
+505 East Green Street,East Green Street,505 East Green Street-East Green Street,"40.110248,-88.231486",,,East Green Street-S 6th Street,East Green Street-S 5th Street
+507 East Daniel Street,East Daniel Street,507 East Daniel Street-East Daniel Street,"40.107933, -88.231398",,,East Daniel Street-S 6th Street,East Daniel Street-S 5th Street
+912 South Fifth Street,S 5th Street,912 South Fifth Street-S 5th Street,"40.107009,-88.231953",East Daniel Street-S 5th Street,S 5th Street-East Chalmers Street,,
+Altgeld Hall,S Wright Street,Altgeld Hall-S Wright Street,"40.109170,-88.228823",East Green Street-S Wright Street,East John Street-S Wright Street,,
+Coble Hall,S Wright Street,Coble Hall-S Wright Street,"40.108768,-88.228893",East John Street-S Wright Street,East Daniel Street-S Wright Street,,
+East Armory Ave,S 4th Street,East Armory Ave-S 4th Street,"40.1052515,-88.2332165",S 4th Street-East Chalmers Street,,,
+East Armory Ave,S 5th Street,East Armory Ave-S 5th Street,"40.105406,-88.231968",S 5th Street-East Chalmers Street,,East Armory Ave-S 6th Street,East Armory Ave-S 4th Street
+East Armory Ave,S 6th Street,East Armory Ave-S 6th Street,"40.105411,-88.230304",S 6th Street-East Chalmers Street,,East Armory Ave-S 5th Street,East Armory Ave-S Wright Street
+East Armory Ave,S Wright Street,East Armory Ave-S Wright Street,"40.105503,-88.228827",S Wright Street-East Chalmers Street,,,East Armory Ave-S 6th Street
+East Daniel Street,S 4th Street,East Daniel Street-S 4th Street,"40.107946,-88.233505",East John Street-S 4th Street,S 4th Street-East Chalmers Street,East Daniel Street-S 5th Street,
+East Daniel Street,S 5th Street,East Daniel Street-S 5th Street,"40.107944,-88.232009",East John Street-S 5th Street,S 5th Street-East Chalmers Street,East Daniel Street-S 6th Street,East Daniel Street-S 4th Street
+East Daniel Street,S 6th Street,East Daniel Street-S 6th Street,"40.107965,-88.230350",East John Street-S 6th Street,S 6th Street-East Chalmers Street,East Daniel Street-S Wright Street,East Daniel Street-S 5th Street
+East Daniel Street,S Wright Street,East Daniel Street-S Wright Street,"40.107973,-88.228886",East John Street-S Wright Street,S Wright Street-East Chalmers Street,,East Daniel Street-S 6th Street
+East Green Street,S 4th Street,East Green Street-S 4th Street,"40.110250,-88.233557",,East John Street-S 4th Street,East Green Street-S 5th Street,
+East Green Street,S 5th Street,East Green Street-S 5th Street,"40.110268,-88.232079",,East John Street-S 5th Street,East Green Street-S 6th Street,East Green Street-S 4th Street
+East Green Street,S 6th Street,East Green Street-S 6th Street,"40.110286,-88.230394",,East John Street-S 6th Street,East Green Street-S Wright Street,East Green Street-S 5th Street
+East Green Street,S Wright Street,East Green Street-S Wright Street,"40.110290,-88.228875",,East John Street-S Wright Street,,East Green Street-S 6th Street
+East John Street,S 4th Street,East John Street-S 4th Street,"40.105414,-88.233463",East Green Street-S 4th Street,East Daniel Street-S 4th Street,East John Street-S 5th Street,
+East John Street,S 5th Street,East John Street-S 5th Street,"40.109063,-88.232024",East Green Street-S 5th Street,East Daniel Street-S 5th Street,East John Street-S 6th Street,East John Street-S 4th Street
+East John Street,S 6th Street,East John Street-S 6th Street,"40.109046,-88.230366",East John Street-S Wright Street,East John Street-S 5th Street,East Green Street-S 6th Street,East Daniel Street-S 6th Street
+East John Street,S Wright Street,East John Street-S Wright Street,"40.109070,-88.228878",East Green Street-S Wright Street,East Daniel Street-S Wright Street,,East John Street-S 6th Street
+English Building,S Wright Street,English Building-S Wright Street,"40.107694,-88.228819",East Daniel Street-S Wright Street,S Wright Street-East Chalmers Street,,
+Gregory Hall,S Wright Street,Gregory Hall-S Wright Street,"40.105515,-88.228766",S Wright Street-East Chalmers Street,East Armory Ave-S Wright Street,,
+Henry Admin Building,S Wright Street,Henry Admin Building-S Wright Street,"40.108419,-88.228851",East John Street-S Wright Street,East Daniel Street-S Wright Street,,
+Ice Arena,East Armory Ave,Ice Arena-East Armory Ave,"40.105441,-88.232423",,,East Armory Ave-S 5th Street,East Armory Ave-S 4th Street
+Illini Hall,S Wright Street,Illini Hall-S Wright Street,"40.109449,-88.228906",East Green Street-S Wright Street,East John Street-S Wright Street,,
+Illini Union Bookstore,S Wright Street,Illini Union Bookstore-S Wright Street,"40.108181,-88.228891",East John Street-S Wright Street,East Daniel Street-S Wright Street,,
+International Studies Building,S 5th Street,International Studies Building-S 5th Street,"40.107211,-88.231952",East Daniel Street-S 5th Street,S 5th Street-East Chalmers Street,,
+Irwin Academic Services Ctr,S 4th Street,Irwin Academic Services Ctr-S 4th Street,"40.105774,-88.233409",S 4th Street-East Chalmers Street,East Armory Ave-S 4th Street,,
+Library and Information Sciences,East Daniel Street,Library and Information Sciences-East Daniel Street,"40.107930,-88.231625",,,East Daniel Street-S 6th Street,East Daniel Street-S 5th Street
+Lincoln Hall,S Wright Street,Lincoln Hall-S Wright Street,"40.106763,-88.228762",S Wright Street-East Chalmers Street,East Armory Ave-S Wright Street,,
+Police Training Institute,S 4th Street,Police Training Institute-S 4th Street,"40.106419,-88.233434",S 4th Street-East Chalmers Street,East Armory Ave-S 4th Street,,
+Psychology Building,East Daniel Street,Psychology Building-East Daniel Street,"40.107937,-88.229987",,,East Daniel Street-S Wright Street,East Daniel Street-S 6th Street
+S 4th Street,East Chalmers Street,S 4th Street-East Chalmers Street,"40.106807,-88.233486",East Daniel Street-S 4th Street,East Armory Ave-S 4th Street,S 5th Street-East Chalmers Street,
+S 5th Street,East Chalmers Street,S 5th Street-East Chalmers Street,"40.106809,-88.232017",East Daniel Street-S 5th Street,East Armory Ave-S 5th Street,S 6th Street-East Chalmers Street,S 4th Street-East Chalmers Street
+S 6th Street,East Chalmers Street,S 6th Street-East Chalmers Street,"40.106823,-88.230340",East Daniel Street-S 6th Street,East Armory Ave-S 6th Street,S Wright Street-East Chalmers Street,S 5th Street-East Chalmers Street
+S Wright Street,East Chalmers Street,S Wright Street-East Chalmers Street,"40.106837,-88.228943",East Daniel Street-S Wright Street,East Armory Ave-S Wright Street,,S 6th Street-East Chalmers Street
+Sherman Hall,S 5th Street,Sherman Hall-S 5th Street,"40.107090,-88.232023",East Daniel Street-S 5th Street,S 5th Street-East Chalmers Street,,
+Student services Arcade Building,S Wright Street,Student services Arcade Building-S Wright Street,"40.109775,-88.228906",East Green Street-S Wright Street,East John Street-S Wright Street,,
+Swanlund Administration Building,East John Street,Swanlund Administration Building-East John Street,"40.109037,-88.230043",,,East John Street-S Wright Street,East John Street-S 6th Street
+University YMCA,S Wright Street,University YMCA-S Wright Street,"40.106541,-88.228859",S Wright Street-East Chalmers Street,East Armory Ave-S Wright Street,,
+Speech & Hearing Sci,S 6th Street,Speech & Hearing Sci-S 6th Street,"40.107654, -88.230329",East Daniel Street-S 6th Street,S 6th Street-East Chalmers Street,,
